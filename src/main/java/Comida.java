@@ -1,0 +1,3 @@
+interface Comida {
+   Double calorias();
+}
